@@ -44,7 +44,3 @@ Aplicar meus conhecimentos em **Tecnologia da Informação**, participando de pr
 📫 **E-mail:** [brunocosta0495@gmail.com](mailto:brunocosta0495@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/bruno-costa-it]([https://www.linkedin.com/in/bruno-costa-it/])
 📂 **Portfólio:** [github.com/Bruno](https://github.com/brunocosta-devlab)
-
----
-
-> “Aprender é o primeiro passo para transformar ideias em soluções.”
