@@ -2,7 +2,7 @@
 
 **`Estudante de Ciências da Computação | Desenvolvimento e Inovação em TI`**
 
-Sou estudante de **Ciências da Computação**, com foco em **aprimorar e aplicar meus conhecimentos em tecnologia**. Tenho interesse em **desenvolvimento web, automação de sistemas e análise de dados**, buscando sempre transformar aprendizado em soluções práticas.  
+Sou estudante de **Ciências da Computação**, com foco em **aprimorar e aplicar meus conhecimentos em tecnologia**. Tenho interesse em **desenvolvimento, automação de sistemas e análise de dados**, buscando sempre transformar aprendizado em soluções práticas.  
 Estou em constante evolução, aprendendo novas ferramentas e linguagens para contribuir com **projetos reais**, colaborativos e inovadores.
 
 ---
