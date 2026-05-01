@@ -2,14 +2,14 @@
 
 **`Estudante de Ciências da Computação | Desenvolvimento e Inovação em TI`**
 
-Sou estudante de **Ciências da Computação**, com foco em **aprimorar e aplicar meus conhecimentos em tecnologia**. Tenho interesse em **desenvolvimento, automação de sistemas e análise de dados**, buscando sempre transformar aprendizado em soluções práticas.  
+Sou estudante de **Ciências da Computação**, com foco em **aprimorar e aplicar meus conhecimentos em tecnologia**. Atualmente trabalho com **desenvolvimento de sistemas ERP e WEB**, buscando sempre transformar aprendizado em soluções práticas.  
 Estou em constante evolução, aprendendo novas ferramentas e linguagens para contribuir com **projetos reais**, colaborativos e inovadores.
 
 ---
 
 ### 🎯 Objetivo Profissional
 
-Aplicar meus conhecimentos em **Tecnologia da Informação**, participando de projetos que envolvam **desenvolvimento web, automação, análise de dados e integração de sistemas**, contribuindo com soluções eficientes e escaláveis.
+Aplicar meus conhecimentos em **Tecnologia da Informação**, participando de projetos que **promovam solução e inovação**.
 
 ---
 
@@ -25,7 +25,7 @@ Aplicar meus conhecimentos em **Tecnologia da Informação**, participando de pr
 ---
 
 ### 💻 Linguagens e Tecnologias
-
+<img align="left" alt="Delphi" title="Delphi" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg"/>
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
@@ -42,5 +42,5 @@ Aplicar meus conhecimentos em **Tecnologia da Informação**, participando de pr
 ### 🌐 Contato
 
 📫 **E-mail:** [brunocosta0495@gmail.com](mailto:brunocosta0495@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/bruno-costa-it](https://www.linkedin.com/in/bruno-costa-it/)
-📂 **Portfólio:** [github.com/Bruno](https://github.com/brunocosta-devlab)
+💼 **LinkedIn:** [linkedin.com/in/bruno-costa-it](https://www.linkedin.com/in/bruno-costa95/)
+📂 **Portfólio:** [github.com/Bruno]((https://github.com/bruno-costa95))
