@@ -1,46 +1,50 @@
-# 👨🏻‍💻 Bruno
+# 👋 Olá, eu sou o Bruno!
 
-**`Estudante de Ciências da Computação | Desenvolvimento e Inovação em TI`**
+### **Desenvolvedor | ERP e WEB**
 
-Sou estudante de **Ciências da Computação**, com foco em **aprimorar e aplicar meus conhecimentos em tecnologia**. Atualmente trabalho com **desenvolvimento de sistemas ERP e WEB**, buscando sempre transformar aprendizado em soluções práticas.  
-Estou em constante evolução, aprendendo novas ferramentas e linguagens para contribuir com **projetos reais**, colaborativos e inovadores.
-
----
-
-### 🎯 Objetivo Profissional
-
-Aplicar meus conhecimentos em **Tecnologia da Informação**, participando de projetos que **promovam solução e inovação**.
+Atuo no desenvolvimento de **sistemas ERP e aplicações Web**, unindo regras de negócio complexas a interfaces eficientes. Focado em criar código limpo, escalável e de alto impacto para problemas reais.
 
 ---
 
-### 🧠 Áreas de Interesse
+### 🎯 Sobre Mim
 
-- Desenvolvimento **Front-End e Back-End**
-- **Engenharia de Software** e boas práticas de código
-- **Automação e Integração de Sistemas**
-- **Banco de Dados** e persistência de informações
-- **Análise de Dados** e aplicações em produtividade
-- **Desenvolvimento de Projetos Colaborativos**
+- 🔭 **Atualmente:** Desenvolvendo soluções para sistemas ERP e ecossistemas Web Full Stack.
+- 🛠️ **Foco:** Arquitetura de software, automação de rotinas e integração de sistemas.
+- 📚 **Em constante evolução:** Aprimorando padrões de projeto, performance e boas práticas de código.
+- 💡 **Áreas de interesse:** Desenvolvimento Web/Desktop, banco de dados, engenharia de software e análise de dados.
 
 ---
 
-### 💻 Linguagens e Tecnologias
-<img align="left" alt="Delphi" title="Delphi" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg"/>
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="Sass" title="Sass" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/><img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="VSCode" title="VSCode" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+### 💻 Tech Stack & Ferramentas
 
-<br/>
-<br/>
+**Backend & Linguagens**
+![Delphi](https://img.shields.io/badge/Delphi-E0232E?style=for-the-badge&logo=delphi&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend & UI**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Ferramentas & Ambiente**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🌐 Contato
+### 📊 Estatísticas do GitHub
 
-📫 **E-mail:** [brunocosta0495@gmail.com](mailto:brunocosta0495@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/bruno-costa-it](https://www.linkedin.com/in/bruno-costa95/)
-📂 **Portfólio:** [github.com/Bruno]((https://github.com/bruno-costa95))
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="150"/>
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
