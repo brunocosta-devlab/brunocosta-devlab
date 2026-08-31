@@ -2,7 +2,7 @@
 
 ### **Desenvolvedor | ERP e WEB**
 
-Atuo no desenvolvimento de **sistemas ERP e aplicações Web**, unindo regras de negócio complexas a interfaces eficientes. Focado em criar código limpo, escalável e de alto impacto para problemas reais.
+Atuo no desenvolvimento de **sistemas ERP e aplicações Web**, unindo regras de negócio a interfaces eficientes. Focado em criar código limpo, escalável e de alto impacto para problemas reais.
 
 ---
 
@@ -35,7 +35,7 @@ Atuo no desenvolvimento de **sistemas ERP e aplicações Web**, unindo regras de
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
