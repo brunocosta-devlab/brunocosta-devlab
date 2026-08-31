@@ -35,15 +35,6 @@ Atuo no desenvolvimento de **sistemas ERP e aplicações Web**, unindo regras de
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="150"/>
-</p>
-
----
-
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
